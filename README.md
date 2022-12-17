@@ -1,6 +1,6 @@
 # hackernews_2022_title_embeddings
 
-For more information on how I used these embeddings, refer to this blog post: [Market research using GPT-3 and Hacker News](https://idiotlamborghini.com/articles/)
+For more information on how I used these embeddings, refer to this blog post: [Market research using GPT-3 and Hacker News](https://idiotlamborghini.com/articles/market_research_using_gpt3_and_hackernews)
 
 - The `title_embeddings` folder contains 51,275 vectors of 4096 dimensions each.
   - Created using OpenAI's `text-search-curie-doc-001` model.
